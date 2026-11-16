@@ -4,7 +4,7 @@ title: SportPals Privacy Policy
 
 # SportPals Privacy Policy
 
-**Effective date:** [11/15/2026]
+**Effective date:** November 15, 2026
 
 SportPals ("the app", "we") helps people find, host and join pickup games and
 tournaments nearby. This policy explains what information the app collects, how
@@ -133,4 +133,4 @@ significant changes, let you know in the app.
 
 ## Contact
 
-Questions or requests: **[test@gmail.com]**
+Questions or requests: **kunhong5631@gmail.com**

@@ -14,7 +14,7 @@ Your account is deleted immediately.
 
 ## Without the app
 
-Email **[your contact email]** from the email address you signed up with, with
+Email **kunhong5631@gmail.com** from the email address you signed up with, with
 the subject **"Delete my SportPals account"**. We will confirm the request and
 delete your account and data within 30 days.
 

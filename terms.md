@@ -4,7 +4,7 @@ title: SportPals Terms of Use
 
 # SportPals Terms of Use
 
-**Effective date:** [publish date]
+**Effective date:** November 15, 2026
 
 By creating a SportPals account or using the app, you agree to these terms.
 
@@ -49,4 +49,4 @@ the app. Continuing to use SportPals means you accept the updated terms.
 
 ## Contact
 
-**[your contact email]**
+**kunhong5631@gmail.com**
